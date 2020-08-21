@@ -1,3 +1,5 @@
+# LAB02 IETI (Intro React)
+
 <p align="center">
   <a href="https://material-ui.com/" rel="noopener" target="_blank"><img width="150" src="https://material-ui.com/static/logo.svg" alt="Material-UI logo"></a></p>
 </p>
@@ -250,4 +252,14 @@ This will prevent the user authentication every time!
 4. Run the application and then stop the server and verify the data is persisted.
 
 Tip: You can use the Google Chrome Developer tools under the Application tab to explore the Local Storage. 
+
+
+## AUTHOR
+
+* **JUAN CAMILO ORTIZ MEDINA** - [Juaco9502](https://github.com/juaco9502)
+
+
+## LICENSE
+
+This project is licensed under the GNU General Public License - [LICENSE](LICENSE) 
    
